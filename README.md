@@ -1,2 +1,3 @@
-# hotellas
-Hotel Landing Page
+# Hotel las
+Hotel Landing Page Design
+HTML | CSS 
